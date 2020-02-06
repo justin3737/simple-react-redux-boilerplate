@@ -47,7 +47,7 @@
     "extract-text-webpack-plugin": "^1.0.1",
     "file-loader": "^0.8.5",
     "gh-pages": "^0.12.0",
-    "node-sass": "^3.4.2",
+    "node-sass": "^4.2.0",
     "sass-loader": "^3.1.2",
     "style-loader": "^0.13.0",
     "url-loader": "^0.5.7",
